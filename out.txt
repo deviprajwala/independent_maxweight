@@ -1,0 +1,5 @@
+enter the size of matrix
+enter the matrix elements
+enter the weight of matrix
+enter the nodes of graph
+Weight is 20,Node is 4
